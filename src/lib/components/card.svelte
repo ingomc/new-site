@@ -1,5 +1,5 @@
 <div class="card">
-  This is the card content
+  This is the card content but the shadow token css var is not there?
 </div>
 
 <style>
